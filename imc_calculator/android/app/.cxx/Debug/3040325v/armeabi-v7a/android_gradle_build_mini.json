@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/jeanfrancoismoril/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jeanfrancoismoril/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/jeanfrancoismoril/Documents/Perso-project/flutter-project/Flutter-Expert/imc_calculator/android/app/.cxx/Debug/3040325v/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jeanfrancoismoril/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/jeanfrancoismoril/Documents/Perso-project/flutter-project/Flutter-Expert/imc_calculator/android/app/.cxx/Debug/3040325v/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

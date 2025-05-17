@@ -1,0 +1,2 @@
+/Users/jeanfrancoismoril/Documents/Perso-project/flutter-project/Flutter-Expert/settings_app/android/app/.cxx/Debug/291e4l6i/x86_64/CMakeFiles/edit_cache.dir
+/Users/jeanfrancoismoril/Documents/Perso-project/flutter-project/Flutter-Expert/settings_app/android/app/.cxx/Debug/291e4l6i/x86_64/CMakeFiles/rebuild_cache.dir

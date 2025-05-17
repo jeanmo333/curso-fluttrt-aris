@@ -1,0 +1,1 @@
+/Users/jeanfrancoismoril/Documents/Perso-project/flutter-project/Flutter-Expert/settings_app/build/app/intermediates/cxx/Debug/291e4l6i/obj/armeabi-v7a
